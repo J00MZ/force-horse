@@ -30,7 +30,7 @@
 			"http://*.nypost.com/*",
 			"http://*.suntimes.com/*",
 			"http://*.chicagotribune.com/*",
-			"http://edition.cnn.com/*"
+			"http://*.cnn.com/*"
 		],
       "js": ["popup.js"],
       "run_at": "document_end"
