@@ -5,6 +5,7 @@
   "permissions": [
     "http://*.reddit.com/*",
 	"https://*.google.com/*",
+	"https://*.wikipedia.org/*",
 	"http://*.nytimes.com/*",
 	"http://*.wsj.com/*",
 	"http://*.usatoday.com/*",
