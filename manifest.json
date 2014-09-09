@@ -1,7 +1,7 @@
 {
   "name": "Force=Horse",
   "short_name": "Force=Horse",
-  "version": "0.2",
+  "version": "0.3",
   "permissions": [
     "http://*.reddit.com/*",
 	"https://*.google.com/*",
